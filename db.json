@@ -1,0 +1,64 @@
+{
+  "income": [
+    {
+      "id": 3,
+      "source": "investment",
+      "amount": "3142.01",
+      "description": "erat vestibulum sed magna",
+      "date": "6/20/2023"
+    },
+    {
+      "id": 4,
+      "source": "royalties",
+      "amount": "5722.38",
+      "description": "proin leo odio",
+      "date": "2/4/2023"
+    },
+    {
+      "source": "sdfg dfg",
+      "amount": "45345",
+      "description": "dfgdfg",
+      "date": "03/01/24",
+      "id": 5
+    },
+    {
+      "source": "Salary",
+      "amount": "2000",
+      "description": "Monthly salary",
+      "date": "05/01/24",
+      "id": 6
+    }
+  ],
+  "expenses": [
+    {
+      "id": 3,
+      "amount": "$11.55",
+      "description": "cras mi pede",
+      "date": "2/5/2023",
+      "source": "Beef - Shank"
+    },
+    {
+      "id": 4,
+      "amount": "$77.90",
+      "description": "vestibulum sed magna",
+      "date": "3/2/2023",
+      "source": "Squid - Tubes / Tenticles 10/20"
+    }
+  ],
+  "savings": [
+    {
+      "id": 3,
+      "amount": "$23.35",
+      "description": "ligula vehicula consequat morbi",
+      "date": "8/19/2023",
+      "source": "investment"
+    },
+    {
+      "id": 4,
+      "amount": "$71.43",
+      "description": "ut nunc vestibulum",
+      "date": "9/20/2023",
+      "source": "emergency fund"
+    }
+  ]
+}
